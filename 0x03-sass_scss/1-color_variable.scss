@@ -1,1 +1,7 @@
+$text-color: #3D3D3D;
 
+// Apply it to multiple selectors
+body,
+p {
+  color: $text-color;
+}
